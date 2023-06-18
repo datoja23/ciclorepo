@@ -1,4 +1,4 @@
-function suma(numero1, numero2) {
+const suma= (numero1, numero2) => {
     const resultado = numero1 + numero2;
     return resultado;
 }
